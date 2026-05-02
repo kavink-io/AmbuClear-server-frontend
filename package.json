@@ -10,7 +10,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
+  "description": "Real-time Node.js WebSocket backend for the AmbuClear SOS and ambulance tracking application.",
   "dependencies": {
     "ejs": "^3.1.10",
     "express": "^5.1.0",

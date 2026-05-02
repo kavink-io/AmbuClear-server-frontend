@@ -1,6 +1,10 @@
 # AmbuClear Server
 
-AmbuClear is a real-time SOS and ambulance tracking application. This repository contains the Node.js backend server that powers the core location tracking, driver matching, and real-time communication between users and ambulance drivers.
+## Description
+
+AmbuClear is a life-saving, real-time SOS and ambulance tracking application designed to drastically reduce emergency response times. By instantly bridging the gap between individuals in distress and the nearest available ambulance drivers, AmbuClear ensures that critical medical help arrives when every second counts. 
+
+This repository houses the **Node.js WebSocket backend** that acts as the central nerve center for the platform. It handles continuous GPS location tracking, executes an intelligent driver-matching algorithm using the Haversine formula to pinpoint the closest responder, and maintains persistent, low-latency connections between users and drivers throughout the emergency response process.
 
 ## Features
 
